@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "message": "update firewall",
+      "attention": true,
+      "date": "2019-10-27T07:07:00.412Z",
+      "tech": "Shyam",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "virus protectionsss",
+      "tech": "Ghanshyam",
+      "attention": false,
+      "date": "2019-10-27T07:22:19.339Z"
+    },
+    {
+      "message": "wireless broked",
+      "attention": false,
+      "date": "2019-10-27T07:07:38.914Z",
+      "tech": "Ram",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "abhishek",
+      "lastName": "sharma"
+    },
+    {
+      "firstName": "neha",
+      "lastName": "verma",
+      "id": 5
+    }
+  ]
+}
